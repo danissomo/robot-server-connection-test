@@ -74,11 +74,7 @@ average rate: 30.025
 ## Remote desktop
 
 ### 1) wifi
-
-<video controls>
-  <source src="wifi.mp4" type="video/mp4">
-</video>
-
+[![wifi]()](wifi.mp4)
 ### 2) 4g
 <video controls>
   <source src="4g.mp4" type="video/mp4">
