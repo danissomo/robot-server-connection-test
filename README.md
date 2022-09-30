@@ -73,7 +73,11 @@ average rate: 30.025
 ### 2) 4g
 ## Remote desktop
 
+
+
+
+
 ### 1) wifi
-[![wifi](wifi.jpg)](wifi.webm)
+
+https://user-images.githubusercontent.com/37418257/193255204-438333fd-ac62-4af3-8c7d-2e2da6069e5c.mp4
 ### 2) 4g
-[![4g](4g.jpg)](4g.webm)
