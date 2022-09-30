@@ -15,7 +15,6 @@
 64 bytes from 10.147.18.169: icmp_seq=7 ttl=64 time=37.2 ms
 64 bytes from 10.147.18.169: icmp_seq=8 ttl=64 time=23.7 ms
 64 bytes from 10.147.18.169: icmp_seq=9 ttl=64 time=6.83 ms
-
 ```
 ### 2) 4g
 ```
@@ -31,6 +30,13 @@
 ## Speed
 ### 1) wifi
 ```
+------------------------------------------------------------
+Client connecting to 10.147.18.169, TCP port 5001
+TCP window size:  128 KByte (default)
+------------------------------------------------------------
+[  3] local 10.147.18.15 port 52678 connected with 10.147.18.169 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-10.1 sec   136 MBytes   113 Mbits/sec
 ```
 ### 2) 4g
 ```
