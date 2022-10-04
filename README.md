@@ -40,6 +40,13 @@ TCP window size:  128 KByte (default)
 ```
 ### 2) 4g
 ```
+------------------------------------------------------------
+Server listening on TCP port 5001
+TCP window size:  128 KByte (default)
+------------------------------------------------------------
+[  4] local 10.147.18.169 port 5001 connected with 10.147.18.176 port 43626
+[ ID] Interval       Transfer     Bandwidth
+[  4]  0.0-11.4 sec  8.38 MBytes  6.15 Mbits/sec
 ```
 
 
@@ -77,13 +84,45 @@ average rate: 30.025
 ```
 
 ### 2) 4g
+```
+subscribed to [/realsense_back/color/image_raw]
+no new messages
+average rate: 1.822
+	min: 0.516s max: 0.582s std dev: 0.03258s window: 3
+average rate: 1.725
+	min: 0.516s max: 0.641s std dev: 0.05110s window: 4
+average rate: 1.598
+	min: 0.516s max: 0.724s std dev: 0.07123s window: 6
+average rate: 1.578
+	min: 0.516s max: 0.724s std dev: 0.06741s window: 7
+average rate: 1.559
+	min: 0.516s max: 0.724s std dev: 0.06521s window: 8
+average rate: 1.519
+	min: 0.516s max: 0.794s std dev: 0.07481s window: 10
+^Caverage rate: 1.565
+	min: 0.516s max: 0.794s std dev: 0.07892s window: 12
+```
+```
+subscribed to [/realsense_back/color/image_raw/compressed]
+no new messages
+average rate: 33.423
+	min: 0.010s max: 0.045s std dev: 0.01158s window: 14
+average rate: 31.075
+	min: 0.007s max: 0.052s std dev: 0.01086s window: 45
+average rate: 30.641
+	min: 0.007s max: 0.052s std dev: 0.01064s window: 75
+average rate: 30.533
+	min: 0.007s max: 0.052s std dev: 0.00980s window: 105
+average rate: 30.450
+	min: 0.001s max: 0.068s std dev: 0.01004s window: 135
+average rate: 30.376
+	min: 0.001s max: 0.068s std dev: 0.00987s window: 166
+average rate: 30.338
+	min: 0.001s max: 0.072s std dev: 0.01111s window: 196
+```
 ## Remote desktop
-
-
-
-
-
 ### 1) wifi
 
 https://user-images.githubusercontent.com/37418257/193255204-438333fd-ac62-4af3-8c7d-2e2da6069e5c.mp4
+
 ### 2) 4g
