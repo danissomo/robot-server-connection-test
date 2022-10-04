@@ -126,3 +126,6 @@ average rate: 30.338
 https://user-images.githubusercontent.com/37418257/193255204-438333fd-ac62-4af3-8c7d-2e2da6069e5c.mp4
 
 ### 2) 4g
+
+https://user-images.githubusercontent.com/37418257/193849542-bda8bdd6-20cd-415b-aaea-7ead4c431552.mp4
+
